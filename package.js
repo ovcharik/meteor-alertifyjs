@@ -1,7 +1,7 @@
 Package.describe({
   name: 'ovcharik:alertifyjs',
   summary: 'A javascript framework for developing pretty browser dialogs and notifications.',
-  version: '0.9.0',
+  version: '0.10.2',
   git: 'https://github.com/ovcharik/meteor-alertifyjs'
 });
 
