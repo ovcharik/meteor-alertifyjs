@@ -3,6 +3,11 @@ meteor-alertifyjs [![Build Status](https://travis-ci.org/ovcharik/meteor-alertif
 
 [AlertifyJS](http://alertifyjs.com/) for Meteor.
 
+Installation
+------------
+
+    $ meteor add ovcharik:alertifyjs
+
 
 AlertifyJS repository
 -----------------
