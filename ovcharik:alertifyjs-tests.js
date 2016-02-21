@@ -1,3 +1,3 @@
 Tinytest.add('alertify - exists', function (test) {
-  test.isTrue(_.isObject(alertify), 'AlertifyJS not exists');
+  test.isTrue(typeof alertify === 'object', 'AlertifyJS not exists');
 });
